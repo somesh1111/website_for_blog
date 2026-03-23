@@ -1,0 +1,865 @@
+
+You are a professional financial journalist who writes detailed stock market articles similar to financial media websites like Moneycontrol, Economic Times Markets, and Business Standard.
+
+Convert the following stock market notification into a professional financial blog article.
+
+IMPORTANT GLOBAL RULES
+- Return ONLY clean readable text.
+- Do NOT use markdown like ## or **.
+- Do NOT use HTML tags.
+- Do NOT wrap output in ``` or ```html code blocks.
+- Write the article in a professional financial journalism style.
+- Write in clear paragraphs with proper section titles.
+- Never mention missing information.
+- Never write phrases like "the notification does not mention", "not provided in the notification", "not detailed in the notification", or similar.
+- Do not explain data availability.
+- The article should read like a complete financial news story written for investors.
+
+ARTICLE STRUCTURE
+
+Title  
+Create a strong SEO-friendly headline similar to financial news websites.
+
+Synopsis  
+Write a short 2–3 sentence summary explaining the key development and why the stock may attract investor attention.
+
+What’s the News?  
+Explain the order, contract, or announcement clearly including:
+- Order value
+- Client or awarding authority
+- Execution timeline if available
+- Strategic importance of the deal
+- How the project strengthens the company’s position in its sector
+
+Stock Performance  
+
+Explain the stock movement and performance in a natural financial commentary style.
+
+Include:
+- Latest stock price movement around the time of the announcement if available.
+- Stock performance trend over the last 3 months.
+- Stock performance trend over the last 1 year.
+
+WRITING RULES FOR STOCK PERFORMANCE
+- Do not refer to the notification while describing performance.
+- Do not say that information is missing.
+- Write the analysis as a natural market commentary.
+
+If exact numbers are not available:
+- Describe the general trend such as strong growth, moderate growth, sideways consolidation, correction, or decline.
+- Focus on market trend, investor sentiment, and historical movement rather than explaining missing numbers.
+
+Order Book Value
+Explain how the new contract strengthens the company’s project pipeline and improves revenue visibility.
+
+TASK: Use the Google Search tool to confirm and include the company's latest consolidated order book value. 
+(Note for example: As of Q3 FY26, the official figure was reported).
+
+Discuss:
+- The current total order book figure and what this scale signifies for a mid-cap infrastructure player.
+- The strategic importance of the new order in relation to this existing backlog.
+- The company’s consistent ability to win large-scale, technically complex contracts.
+- How these combined factors contribute to long-term growth and execution stability.
+
+Do NOT state that this information was "searched" or "provided in a prompt." Integrate it seamlessly into the financial report.
+
+Business Overview  
+
+Explain what the company does, its core business segments, and the sectors it operates in.
+
+Mention:
+- Major business areas
+- Key industry segments
+- Typical clients or project types
+
+Financial Overview  
+
+Provide a brief overview of the company’s financial profile such as:
+
+- Revenue growth trend
+- Profitability trend
+- Market capitalization if known
+- Price-to-Earnings (P/E) ratio if relevant
+- Overall financial strength or market positioning
+
+Write this section like a financial analyst summarizing the company’s financial standing.
+
+STYLE REQUIREMENTS
+
+- The article should read like a professional financial news report.
+- Maintain a neutral, analytical tone suitable for investors.
+- Write clearly structured paragraphs under each section title.
+- Avoid speculation beyond reasonable financial commentary.
+
+Use the following historical stock data if useful.
+
+Stock Data History:
+
+Exchange Time: 18-Jul-2025 20:12:42
+Market Cap: 4685.24
+Stock PE: 15.94
+Industry PE: 
+Current Price: 268.95
+Week Volume Avg: 801077
+Month Volume Avg: 708244
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 26-07-2025 12:20:20
+Market Cap: 4593.78
+Stock PE: 15.62
+Industry PE: 
+Current Price: 263.7
+Week Volume Avg: 183922
+Month Volume Avg: 719461
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 28-07-2025 16:37:38
+Market Cap: 4512.8
+Stock PE: 15.3
+Industry PE: 
+Current Price: 259.1
+Week Volume Avg: 183922
+Month Volume Avg: 719461
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 08-08-2025 16:47:34
+Market Cap: 4471.8
+Stock PE: 15.2
+Industry PE: 
+Current Price: 256.7
+Week Volume Avg: 353210
+Month Volume Avg: 425605
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 08-Aug-2025 16:52:17
+Market Cap: 4471.84
+Stock PE: 15.21
+Industry PE: 
+Current Price: 256.7
+Week Volume Avg: 353210
+Month Volume Avg: 425605
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 08-Aug-2025 17:16:52
+Market Cap: 4491
+Stock PE: 16.8
+Industry PE: 
+Current Price: 257.8
+Week Volume Avg: 172525
+Month Volume Avg: 388181
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11-08-2025 18:26:30
+Market Cap: 4491
+Stock PE: 16.77
+Industry PE: 
+Current Price: 257.8
+Week Volume Avg: 172525
+Month Volume Avg: 388181
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 12-08-2025 15:27:20
+Market Cap: 4307.04
+Stock PE: 16.08
+Industry PE: 
+Current Price: 247.24
+Week Volume Avg: 188560
+Month Volume Avg: 338213
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 14-08-2025 17:32:52
+Market Cap: 4273.77
+Stock PE: 15.96
+Industry PE: 
+Current Price: 245.33
+Week Volume Avg: 231610
+Month Volume Avg: 331911
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 22-08-2025 19:53:46
+Market Cap: 4389.96
+Stock PE: 16.39
+Industry PE: 
+Current Price: 252
+Week Volume Avg: 142830
+Month Volume Avg: 246882
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 22-Aug-2025 19:54:54
+Market Cap: 4312.96
+Stock PE: 16.11
+Industry PE: 
+Current Price: 247.58
+Week Volume Avg: 156468
+Month Volume Avg: 253930
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-Aug-2025 12:18:15
+Market Cap: 4311.4
+Stock PE: 16.1
+Industry PE: 
+Current Price: 247.5
+Week Volume Avg: 151265
+Month Volume Avg: 249198
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 02-09-2025 17:42:41
+Market Cap: 4442.22
+Stock PE: 16.59
+Industry PE: 
+Current Price: 255
+Week Volume Avg: 91910
+Month Volume Avg: 165032
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 07-09-2025 11:09:05
+Market Cap: 4774.78
+Stock PE: 17.83
+Industry PE: 
+Current Price: 274.09
+Week Volume Avg: 573993
+Month Volume Avg: 257510
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 08-Sep-2025 12:47:58
+Market Cap: 4856.31
+Stock PE: 18.13
+Industry PE: 
+Current Price: 278.77
+Week Volume Avg: 573993
+Month Volume Avg: 257510
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-Aug-2025 12:18:15
+Market Cap: 4856.3
+Stock PE: 18.1
+Industry PE: 
+Current Price: 278.8
+Week Volume Avg: 573993
+Month Volume Avg: 257510
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 12-09-2025 16:25:50
+Market Cap: 4698.3
+Stock PE: 17.5
+Industry PE: 
+Current Price: 269.7
+Week Volume Avg: 507042
+Month Volume Avg: 298751
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 12-Sep-2025 19:49:00
+Market Cap: 4692.91
+Stock PE: 17.52
+Industry PE: 
+Current Price: 269.39
+Week Volume Avg: 385447
+Month Volume Avg: 307068
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 17-Sep-2025 12:08:00
+Market Cap: 4858.23
+Stock PE: 18.14
+Industry PE: 
+Current Price: 278.88
+Week Volume Avg: 383087
+Month Volume Avg: 335286
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 18-09-2025 16:46:47
+Market Cap: 4863.1
+Stock PE: 18.2
+Industry PE: 
+Current Price: 279.2
+Week Volume Avg: 367623
+Month Volume Avg: 327370
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 18-Sep-2025 16:47:58
+Market Cap: 4849.2
+Stock PE: 18.1
+Industry PE: 
+Current Price: 278.4
+Week Volume Avg: 407385
+Month Volume Avg: 344459
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 20-Sep-2025 17:43:37
+Market Cap: 4807.88
+Stock PE: 17.95
+Industry PE: 
+Current Price: 275.99
+Week Volume Avg: 356908
+Month Volume Avg: 340857
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 25-Sep-2025 17:30:07
+Market Cap: 4755.79
+Stock PE: 17.76
+Industry PE: 34.21
+Current Price: 273
+Week Volume Avg: 292527
+Month Volume Avg: 365034
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 28-09-2025 11:13:57
+Market Cap: 4566.78
+Stock PE: 17.05
+Industry PE: 34
+Current Price: 262.15
+Week Volume Avg: 427261
+Month Volume Avg: 403584
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 30-Sep-2025 18:09:36
+Market Cap: 4600.75
+Stock PE: 17.18
+Industry PE: 34.06
+Current Price: 264.1
+Week Volume Avg: 414681
+Month Volume Avg: 430189
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 03-Oct-2025 15:33:52
+Market Cap: 4571.14
+Stock PE: 17.07
+Industry PE: 34.06
+Current Price: 262.4
+Week Volume Avg: 414681
+Month Volume Avg: 430189
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 10-10-2025 09:53:14
+Market Cap: 4565.04
+Stock PE: 17.05
+Industry PE: 34.44
+Current Price: 262.05
+Week Volume Avg: 320360
+Month Volume Avg: 339521
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16-10-2025 17:57:28
+Market Cap: 4345.54
+Stock PE: 16.23
+Industry PE: 34.73
+Current Price: 249.45
+Week Volume Avg: 155056
+Month Volume Avg: 305133
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16-Oct-2025 17:58:43
+Market Cap: 4331.6
+Stock PE: 16.18
+Industry PE: 34.88
+Current Price: 248.65
+Week Volume Avg: 158007
+Month Volume Avg: 278652
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 23-10-2025 09:46:13
+Market Cap: 4534.55
+Stock PE: 16.93
+Industry PE: 34.85
+Current Price: 260.3
+Week Volume Avg: 310744
+Month Volume Avg: 303965
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-10-2025 16:57:21
+Market Cap: 4433.51
+Stock PE: 16.56
+Industry PE: 35.22
+Current Price: 254.5
+Week Volume Avg: 106065
+Month Volume Avg: 233561
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-10-2025 17:14:13
+Market Cap: 4433.5
+Stock PE: 16.6
+Industry PE: 35.2
+Current Price: 254.5
+Week Volume Avg: 106065
+Month Volume Avg: 233561
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11-11-2025 15:03:36
+Market Cap: 4373.4
+Stock PE: 16.3
+Industry PE: 33.9
+Current Price: 251.1
+Week Volume Avg: 66426
+Month Volume Avg: 160634
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11-11-2025 15:26:55
+Market Cap: 4373.41
+Stock PE: 16.33
+Industry PE: 33.85
+Current Price: 251.05
+Week Volume Avg: 66426
+Month Volume Avg: 160634
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 13-Nov-2025 20:57:14
+Market Cap: 4324.64
+Stock PE: 16.73
+Industry PE: 34.14
+Current Price: 248.25
+Week Volume Avg: 165993
+Month Volume Avg: 175513
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11-Nov-2025 15:35:34
+Market Cap: 4291.54
+Stock PE: 16.6
+Industry PE: 34.57
+Current Price: 246.35
+Week Volume Avg: 171386
+Month Volume Avg: 163176
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 21-11-2025 12:08:24
+Market Cap: 4235.79
+Stock PE: 16.39
+Industry PE: 34.74
+Current Price: 243.15
+Week Volume Avg: 136034
+Month Volume Avg: 120356
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 24-Nov-2025 17:03:33
+Market Cap: 4180.92
+Stock PE: 16.18
+Industry PE: 34.47
+Current Price: 240
+Week Volume Avg: 136750
+Month Volume Avg: 121749
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 25-Nov-2025
+Market Cap: 4202.69
+Stock PE: 16.26
+Industry PE: 34.64
+Current Price: 241.25
+Week Volume Avg: 139571
+Month Volume Avg: 120160
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 27-Nov-2025
+Market Cap: 4151.3
+Stock PE: 16.06
+Industry PE: 34.98
+Current Price: 238.3
+Week Volume Avg: 176965
+Month Volume Avg: 133903
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 27-11-2025 10:08:01
+Market Cap: 4151.3
+Stock PE: 16.1
+Industry PE: 35
+Current Price: 238.3
+Week Volume Avg: 176965
+Month Volume Avg: 133903
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 28-Nov-2025 13:56:10
+Market Cap: 4186.14
+Stock PE: 16.2
+Industry PE: 35.08
+Current Price: 240.3
+Week Volume Avg: 187175
+Month Volume Avg: 138884
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 06-Dec-2025 16:30:28
+Market Cap: 4057.41
+Stock PE: 15.7
+Industry PE: 34.31
+Current Price: 232.91
+Week Volume Avg: 111374
+Month Volume Avg: 167621
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 22-Dec-2025 13:24:45
+Market Cap: 4248.16
+Stock PE: 16.44
+Industry PE: 34.68
+Current Price: 243.86
+Week Volume Avg: 261157
+Month Volume Avg: 197764
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 23-Dec-2025 12:43:07
+Market Cap: 4298.33
+Stock PE: 16.63
+Industry PE: 32.86
+Current Price: 246.74
+Week Volume Avg: 422811
+Month Volume Avg: 239496
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 26-12-2025 15:11:22
+Market Cap: 4380.73
+Stock PE: 16.95
+Industry PE: 32.77
+Current Price: 251.47
+Week Volume Avg: 599308
+Month Volume Avg: 267976
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 28-12-2025 18:59:04
+Market Cap: 4527.76
+Stock PE: 17.52
+Industry PE: 32.89
+Current Price: 259.91
+Week Volume Avg: 594934
+Month Volume Avg: 278367
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-12-2025 08:27:16
+Market Cap: 4527.76
+Stock PE: 17.52
+Industry PE: 32.89
+Current Price: 259.91
+Week Volume Avg: 594934
+Month Volume Avg: 278367
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 31-Dec-2025 14:57:09
+Market Cap: 4654.93
+Stock PE: 18.01
+Industry PE: 32.81
+Current Price: 267.21
+Week Volume Avg: 886246
+Month Volume Avg: 371809
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 02-01-2026 16:28:11
+Market Cap: 4733.15
+Stock PE: 18.31
+Industry PE: 33.45
+Current Price: 271.7
+Week Volume Avg: 897311
+Month Volume Avg: 399333
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 06-01-2026 12:25:23
+Market Cap: 4772.34
+Stock PE: 18.46
+Industry PE: 33.4
+Current Price: 273.95
+Week Volume Avg: 442546
+Month Volume Avg: 447993
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 13-Jan-2026
+Market Cap: 4760.15
+Stock PE: 18.42
+Industry PE: 32.04
+Current Price: 273.25
+Week Volume Avg: 286593
+Month Volume Avg: 478318
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 14-01-2026 12:22:26
+Market Cap: 4808.06
+Stock PE: 18.6
+Industry PE: 31.13
+Current Price: 276
+Week Volume Avg: 263664
+Month Volume Avg: 469386
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 15-01-2026 16:54:13
+Market Cap: 4838.54
+Stock PE: 18.72
+Industry PE: 31.01
+Current Price: 277.75
+Week Volume Avg: 298556
+Month Volume Avg: 462704
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16-Jan-2026 14:19:37
+Market Cap: 4862.93
+Stock PE: 18.81
+Industry PE: 31.01
+Current Price: 279.15
+Week Volume Avg: 298556
+Month Volume Avg: 462704
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 22-Jan-2026 09:01:52
+Market Cap: 4697.44
+Stock PE: 18.17
+Industry PE: 29.92
+Current Price: 269.65
+Week Volume Avg: 293419
+Month Volume Avg: 478447
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 29-01-2026 14:04:11
+Market Cap: 4707
+Stock PE: 18.2
+Industry PE: 30.2
+Current Price: 270.2
+Week Volume Avg: 206389
+Month Volume Avg: 404438
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 09-02-2026 14:12:55
+Market Cap: 5084.2
+Stock PE: 19.7
+Industry PE: 32.2
+Current Price: 291.9
+Week Volume Avg: 526911
+Month Volume Avg: 352127
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 09-02-2026 14:46:30
+Market Cap: 5084.17
+Stock PE: 19.67
+Industry PE: 32.23
+Current Price: 291.85
+Week Volume Avg: 526911
+Month Volume Avg: 352127
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 10-Feb-2026 08:40:02
+Market Cap: 5084.17
+Stock PE: 19.67
+Industry PE: 32.23
+Current Price: 291.85
+Week Volume Avg: 526911
+Month Volume Avg: 352127
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 12-Feb-2026 08:22:37
+Market Cap: 5166.05
+Stock PE: 19.92
+Industry PE: 33.06
+Current Price: 296.55
+Week Volume Avg: 1089696
+Month Volume Avg: 467501
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 13-02-2026 13:59:54
+Market Cap: 5213.95
+Stock PE: 20.1
+Industry PE: 32.99
+Current Price: 299.3
+Week Volume Avg: 1084911
+Month Volume Avg: 478930
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16-02-2026 15:25:56
+Market Cap: 5045.84
+Stock PE: 19.45
+Industry PE: 32.77
+Current Price: 289.65
+Week Volume Avg: 795453
+Month Volume Avg: 472988
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 18-02-2026 11:49:10
+Market Cap: 5075.46
+Stock PE: 19.57
+Industry PE: 33.51
+Current Price: 291.35
+Week Volume Avg: 256795
+Month Volume Avg: 452815
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 10/03/2026 12:21:49
+Market Cap: 4727.05
+Stock PE: 18.22
+Industry PE: 30.04
+Current Price: 271.35
+Week Volume Avg: 115690
+Month Volume Avg: 260385
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 10/03/2026 17:15:07
+Market Cap: 4727.05
+Stock PE: 18.22
+Industry PE: 30.04
+Current Price: 271.35
+Week Volume Avg: 115690
+Month Volume Avg: 260385
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11/03/2026 14:29:10
+Market Cap: 4727.05
+Stock PE: 18.22
+Industry PE: 30.04
+Current Price: 271.35
+Week Volume Avg: 115690
+Month Volume Avg: 260385
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 11/03/2026 18:06:00
+Market Cap: 4727.05
+Stock PE: 18.22
+Industry PE: 30.04
+Current Price: 271.35
+Week Volume Avg: 115690
+Month Volume Avg: 260385
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 12/03/2026 12:27:38
+Market Cap: 4727.05
+Stock PE: 18.22
+Industry PE: 30.04
+Current Price: 271.35
+Week Volume Avg: 115690
+Month Volume Avg: 260385
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16/03/2026 12:50:03
+Market Cap: 4635.59
+Stock PE: 17.87
+Industry PE: 27.22
+Current Price: 266.1
+Week Volume Avg: 317099
+Month Volume Avg: 183773
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 16/03/2026 13:03:28
+Market Cap: 4635.59
+Stock PE: 17.87
+Industry PE: 27.22
+Current Price: 266.1
+Week Volume Avg: 317099
+Month Volume Avg: 183773
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 17/03/2026 16:39:02
+Market Cap: 4744.47
+Stock PE: 18.29
+Industry PE: 27.37
+Current Price: 272.35
+Week Volume Avg: 371937
+Month Volume Avg: 193881
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 17/03/2026 16:48:15
+Market Cap: 4744.47
+Stock PE: 18.29
+Industry PE: 27.37
+Current Price: 272.35
+Week Volume Avg: 371937
+Month Volume Avg: 193881
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 20/03/2026 17:53:18
+Market Cap: 4733.15
+Stock PE: 18.25
+Industry PE: 27.13
+Current Price: 271.7
+Week Volume Avg: 305016
+Month Volume Avg: 219312
+Revenue (Qtr|Last Year): None
+
+Exchange Time: 20/03/2026 17:58:04
+Market Cap: 4733.15
+Stock PE: 18.25
+Industry PE: 27.13
+Current Price: 271.7
+Week Volume Avg: 305016
+Month Volume Avg: 219312
+Revenue (Qtr|Last Year): None
+
+
+Notification:
+🔔 new order: Ceigall India Ltd
+NSE Security Code: ceigall  
+📅 20/03/2026 17:53:18  
+
+💰 EVENT VALUE: ₹603 Cr
+🧾 Revenue (Qtr|Last Year): ₹991 Cr | ₹3647 Cr
+🏗️ Market Cap: ₹4733 Cr
+📈 P/E: 18.25 | Industry P/E : 27.13  
+📅 Execution Period:    
+✅ Order from:    
+
+💵 Price: ₹271.7  
+📊 Change (W|M|Q): -2.02% | -6.66% | 18.41%   
+📦 Volume Avg(W|M): 3,05,016 | 2,19,312
+⚪ Day RSI: 44.57 (Downward Trending)
+
+💡 Ceigall India Limited's wholly owned subsidiary, CIPPL, secured a significant Rs. 603 Crore project from NHAI for highway construction. This Hybrid Annuity Mode contract includes 18 months construction and 15 years O&M, marking a crucial development for the company's order book and future revenue streams.
+
+
+Date: 20.03.2026
+Subject: Intimation pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015.
+
+Dear Sir/Madam,
+In accordance with the provisions of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulation, 2015, we wish to inform you that Ceigall Infra projects Private Limited (‘CIPPL’), a Wholly
+Owned Subsidiary of Ceigall India Limited (‘CIL’) has emerged as the L1 bidder in the financial bid
+opening for Tender ID: 2025_NHAI_258699_1 dated 20 March, 2026 by the National Highways
+Authority of India.
+The details required under regulation 30 of SEBI (LODR) Regulations, 2015 read with SEBI Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 are as under:
+Sl.
+No.
+Particulars Remarks
+1. Name of the entity awarding the
+order(s)/contract(s);
+National Highways Authority of India
+2. Significant terms and conditions of
+order(s)/contract(s) awarded in brief;
+Mode of Contract: Hybrid Annuity Mode
+(HAM)
+3. Whether order(s) / contract(s) have been
+awarded by domestic/ international entity;
+Domestic
+4. Nature of order(s) / contract(s); Construction of 6-lane access-controlled
+Spur connectivity starting from Ch. 15+100
+of Ambala – Chandigarh section of NH205A and terminating at Ch. 2+500 of
+Zirakpur Bypass (Total length 10.300 Km)
+under NH(O) in the state of Punjab on
+Hybrid Annuity Mode.
+5. Whether domestic or international. Domestic
+6. Time period by which the
+order(s)/contract(s) is to be executed.
+18 Month Construction Period & 15 Year
+Operation & Maintenance Period
+To,
+The General Manager,
+Department of Corporate
+Services, BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Mumbai -400 001
+Scrip Code:544223
+ISIN: INEOAG901020
+To,
+Manager-Listing Compliance,
+National Stock Exchange of India
+Limited, Exchange Plaza, C-1, Block
+G, Bandra Kurla Complex, Bandra
+East, Mumbai – 400 051
+ Symbol: CEIGALL
+ ISIN: INEOAG901020
+7 Broad consideration or size of the
+order(s)/contract(s);
+Rs. 603.00 Crore (Bid Cost)
+8. Whether the promoter/ promoter group /
+group companies have any interest in the
+entity that awarded the order(s)/contract(s)?
+If yes, nature of interest and details thereof.
+No
+9. Whether the order(s)/contract(s) would fall
+within related party transactions? If yes,
+whether the same is done at “arm’s length”.
+No
+The same is also available on the website of the company at www.ceigall.com
+You are requested to take the above information on your record.
+ Thanking you,
+Yours faithfully,
+For CEIGALL INDIA LIMITED
+MEGHA KAINTH
+Company Secretary
+Membership No: F7639 
